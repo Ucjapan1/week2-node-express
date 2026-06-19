@@ -1,0 +1,19 @@
+{
+  "name": "uc-project-2",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "init"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "get git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
